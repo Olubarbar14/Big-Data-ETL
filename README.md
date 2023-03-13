@@ -12,4 +12,5 @@
 ----------------
 ## Part 1:
 
-###### I extracted two datasets from Amazon customer review datasets, amazon_reviews_us_Pet_Products_v1_00.tsv.gz and amazon_reviews_us_Lawn_and_Garden_v1_00.tsv.gz.I transformed each dataset into four DataFrames and loaded each DataFrame into an RDS instance successfullly
+###### I extracted two datasets from Amazon customer review datasets, amazon_reviews_us_Pet_Products_v1_00.tsv.gz and 
+###### amazon_reviews_us_Lawn_and_Garden_v1_00.tsv.gz.I transformed each dataset into four DataFrames and loaded each DataFrame into an RDS instance successfullly
